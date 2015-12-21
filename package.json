@@ -1,0 +1,25 @@
+{
+  "name": "projectname",
+  "version": "1.0.1",
+  "description": "description",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aric-H/how-to-npm.git"
+  },
+  "keywords": [
+    "how-to-npm"
+  ],
+  "author": "Aric-H",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aric-H/how-to-npm/issues"
+  },
+  "homepage": "https://github.com/Aric-H/how-to-npm#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
